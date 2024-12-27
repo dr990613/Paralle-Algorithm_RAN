@@ -5,6 +5,7 @@ K-means Clustering with Parallel and Non-Parallel Implementations
 
 #### **Dataset Overview**
 The dataset used in this project represents a comprehensive collection of used vehicle listings across the United States on Craigslist. It was initially built as a school project by scraping the Craigslist platform and later expanded to create a robust dataset. This dataset provides an extensive set of features, including information such as the vehicle's year, odometer reading, price, and geographical details (latitude and longitude).
+https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
 
 #### **Project Description**
 This project demonstrates the implementation of the K-means clustering algorithm using both non-parallel and parallel approaches. The primary objective is to cluster the vehicle data into meaningful groups based on features such as year and odometer readings, while also showcasing the performance difference between the non-parallel and parallel implementations.
