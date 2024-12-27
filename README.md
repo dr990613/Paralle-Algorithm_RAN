@@ -70,11 +70,8 @@ We used **Python's ****`multiprocessing`** and **`joblib`** libraries to paralle
 
 The speedup is defined as the ratio of the execution time of the non-parallel version to the execution time of the parallel version:
 
-\[
-
 \text{Speedup} = \frac{\text{Time (Non-Parallel)}}{\text{Time (Parallel)}}
 
-\]
 
 A plot showing the speedup as a function of the number of threads/processes will be generated during the experiments. The speedup calculation is used to evaluate the effectiveness of parallelization.
 
